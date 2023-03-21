@@ -1,8 +1,8 @@
 # CloneGoogle
 Proyecto práctico de clon de la página Google
-- Interpretación de código de paginas en linea
-- Comprender al estructura desde un aspecto visual
-- Aplicar concenptos de CSS y Bem
+- Maquetación tomando como base una página en linea
+- Estructurar y diseñar solo con el aspecto visual
+- Utiliazr buenas prácticas en CSS y BEM y HTML
 
 ## Ver ejemplo en vivo
 - https://edracobi028.github.io/CloneGoogle/
